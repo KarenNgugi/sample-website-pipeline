@@ -1,0 +1,8 @@
+{
+  "name": "sample-website-pipeline",
+  "version": "1.0.0",
+  "description": "A simple website project for CI/CD pipeline practice",
+  "scripts": {
+    "test": "node tests/site.test.js"
+  }
+}
